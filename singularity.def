@@ -1,0 +1,23 @@
+Bootstrap: docker
+From: pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
+Stage: build
+
+%files
+    requirements.txt requirements.txt
+
+%post
+    # update from ubuntu first
+    apt update
+    # install openexr-related
+    apt install -y libopenexr-dev
+    # install pytorch related library
+    pip install -r requirements.txt
+    NOW=`date`
+    echo "export NOW=\"${NOW}\"" >> $SINGULARITY_ENVIRONMENT
+
+%labels
+    Author pakkapon.p_s19@svistec.ac.th
+    Version v0.0.1
+
+%help
+    Singularity container for DiffusionLight-Turbo
