@@ -13,7 +13,7 @@ We introduce a simple yet effective technique for estimating lighting from a sin
 
 For Non-Researcher, we implemented other 2 different versions which are [ComfyUI](https://github.com/DiffusionLight/DiffusionLight-ComfyUI) and [Vanila diffusers](https://github.com/DiffusionLight/Diffusionlight-turbo-diffusers).
 
-For Researcher, we use this repository to doing experiment, we include the code of turbo_sdedit, turbo_pred, and turbo_swapping for you to tinker around. 
+For Researcher, This repository is based on [the conference version of DiffusionLight](https://github.com/DiffusionLight/DiffusionLight). We use this repository for doing experiment, we include the code of turbo_sdedit, turbo_pred, and turbo_swapping for you to tinker around. 
 
 ## Table of contents
 -----
