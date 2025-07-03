@@ -1,6 +1,6 @@
 # DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting 	
 
-### [Project Page](https://diffusionlight.github.io/turbo/) | [Paper](https://arxiv.org/abs/2312.09168) | [Colab](https://colab.research.google.com/drive/1UcSp9mj77ZXAyTCvkcXVvC3DYznEyLwZ?usp=sharing&sandboxMode=true#scrollTo=k2pTDk79bMQI&forceEdit=true&sandboxMode=true) | [HuggingFace](https://huggingface.co/DiffusionLight/TurboLoRA) | [ComfyUI](https://github.com/DiffusionLight/DiffusionLight-ComfyUI) | [Diffusers](https://github.com/DiffusionLight/Diffusionlight-turbo-diffusers)
+### [Project Page](https://diffusionlight.github.io/turbo/) | [Paper](https://arxiv.org/abs/2507.01305) | [Colab](https://colab.research.google.com/drive/1UcSp9mj77ZXAyTCvkcXVvC3DYznEyLwZ?usp=sharing&sandboxMode=true#scrollTo=k2pTDk79bMQI&forceEdit=true&sandboxMode=true) | [HuggingFace](https://huggingface.co/DiffusionLight/TurboLoRA) | [ComfyUI](https://github.com/DiffusionLight/DiffusionLight-ComfyUI) | [Diffusers](https://github.com/DiffusionLight/Diffusionlight-turbo-diffusers)
 
 [![Open DiffusionLight in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UcSp9mj77ZXAyTCvkcXVvC3DYznEyLwZ?usp=sharing&sandboxMode=true#scrollTo=k2pTDk79bMQI&forceEdit=true&sandboxMode=true)
 
